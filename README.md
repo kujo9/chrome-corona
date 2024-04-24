@@ -44,8 +44,8 @@ To install in Chrome
 
 ## Authors
 
-👤 **Adebola**
+👤 **kodjo Avossan**
 
-- Github: [@githubhandle](https://github.com/onedebos)
-- Twitter: [@twitterhandle](https://twitter.com/debosthefirst)
-- Linkedin: [linkedin](https://www.linkedin.com/in/adebola-niran/)
+- Github: 
+- Twitter: 
+- Linkedin: 
